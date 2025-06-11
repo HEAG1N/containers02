@@ -3,6 +3,7 @@ Prima aplicație Docker
 Scop
 
 Aceasta lucrare de laborator familiarizează cu elementele de bază ale containerizării și pregătește spațiul de lucru pentru următoarele lucrări de laborator.
+
 Sarcina
 
 Instalarea Docker Desktop și verificarea funcționării acestuia.
@@ -74,6 +75,7 @@ Ce este afișat pe ecran?
 Pe ecran este afisat fisierul index.html cat si permisinulie acestuia si dimensiunea totală a fișierelor din director
 
 Închidem fereastra cu comanda exit.
+
 Concluzii
 
 Am învățat cum să instalăm și să configurăm Docker Desktop.
