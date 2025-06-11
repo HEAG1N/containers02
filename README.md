@@ -16,8 +16,6 @@ Executare
 
 Creaam un repozitoriu containers02 și il clonam pe computerul nostru.
 
-![418359340-bf39f21a-5565-4ddb-9800-9c1bffdfee83](https://github.com/user-attachments/assets/992f6924-8312-419b-81f7-d376a1db9c99)
-
 Creaam în directorul containers02 fișierul Dockerfile cu următorul conținut:
 
 FROM debian:latest
@@ -67,8 +65,6 @@ docker run -ti --name containers02 containers02 bash
 cd /var/www/html/
 
 ls -l
-
-![418359809-f05f4650-7727-4dcb-a947-77aff47b7357](https://github.com/user-attachments/assets/1c1fd456-53cf-4eb8-9edc-5c626c99cd61)
 
 Ce este afișat pe ecran?
 
