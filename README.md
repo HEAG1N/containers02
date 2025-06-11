@@ -1,4 +1,5 @@
 Prima aplicație Docker
+
 Scop
 
 Aceasta lucrare de laborator familiarizează cu elementele de bază ale containerizării și pregătește spațiul de lucru pentru următoarele lucrări de laborator.
